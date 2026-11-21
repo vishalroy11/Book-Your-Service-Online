@@ -1,4 +1,4 @@
-# Servora — Multi-Service Booking and Management Platform
+# Book Your Service Online — Multi-Service Booking and Management Platform
 
 Full-stack, responsive web application connecting **customers** with verified **service providers** and platform **administrators**. Built with real PostgreSQL database persistence, atomic order concurrency locks, role-based authorization, historical price preservation, review integrity, and analytics.
 
